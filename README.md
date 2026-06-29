@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Front-End Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Cairo, Egypt</b>
+  <b>Front-End Developer</b> from <b>Cairo, Egypt</b>
 </p>
 
 <p align="center">
@@ -41,13 +41,12 @@
 
 | Project | Description | Live Demo | Repo |
 |---------|-------------|-----------|------|
-| **DevConnect Forum** | Full‑stack community platform with authentication, real‑time posts, and threaded comments. Built with React, Node.js, SQL. | [Live Demo](#) | [GitHub](https://github.com/MahmoudAminN1) |
 | **Weather App** | Real‑time weather data with dynamic UI and location search. | [Live Demo](https://mahmoudaminn1.github.io/weatherApp/) | [GitHub](https://github.com/MahmoudAminN1) |
 | **Pomodoro Timer** | Focus timer with session tracking and smooth animations. | [Live Demo](https://mahmoudaminn1.github.io/pompdorotimer/) | [GitHub](https://github.com/MahmoudAminN1) |
 | **Todo List** | Task management with local storage and interactive UI. | [Live Demo](https://mahmoudaminn1.github.io/todolist/) | [GitHub](https://github.com/MahmoudAminN1) |
 | **Interactive SPAs** | Multiple single‑page apps with dynamic forms and state management. | [Live Demo](https://mahmoudaminn1.github.io/project1/) | [GitHub](https://github.com/MahmoudAminN1) |
 
-> Check out my [portfolio](https://your-portfolio-link.com) for more!
+> Check out my [portfolio](https://mahmoud-amin.w3spaces.com/index.html) for more!
 
 ---
 
@@ -57,7 +56,7 @@
   <a href="https://github.com/MahmoudAminN1" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/devreact/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mahmoudamin9991@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mahmoud-amin.w3spaces.com/index.html" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -66,9 +65,6 @@
 
 I’m passionate about clean code, neon aesthetics, and building digital experiences that make people smile. 🌟
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAminN1&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
 
 <p align="center">
   <i>This README is crafted with ❤️ and a lot of coffee.</i><br/>
